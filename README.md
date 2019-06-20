@@ -1,5 +1,5 @@
 # Unity
-A repository of various unity game engine related techniques / scripts I've written.
+A repository for unity game engine related techniques / scripts I've written.
 
 ## SetupUnity.sh
 
